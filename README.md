@@ -11,8 +11,11 @@
 ## 👨‍💻 About Me
 
 🎓 I'm a Biotech Engineer now working as a **Data Scientist Jr.**, with a strong foundation in problem-solving, statistical thinking, and applied data analysis.
+
 📊 I build end-to-end projects using **machine learning**, **natural language processing (NLP)**, and **data visualization**, tackling real-world problems like price prediction, sentiment analysis, and demand forecasting.
+
 💡 I focus on delivering clean, well-documented code while reinforcing core concepts in math, modeling, and communication.
+
 🚀 I'm actively seeking opportunities to contribute to data-driven teams, grow my expertise, and create impact through analytics and machine learning.
 
 

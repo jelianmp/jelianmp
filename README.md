@@ -1,23 +1,22 @@
-<img src="https://github.com/jelianmp/jelianmp/blob/main/WPG.png" width="100%" alt="Jorge Mendoza - Data Scientist Jr Banner">
+<img src="https://github.com/jelianmp/jelianmp/blob/main/WPG.png" width="100%" alt="Jorge Mendoza - Data Scientist Banner">
 
 <h1 align="center">Hey there! 👋 I'm Jorge</h1>
 
 <p align="center">
-  <b>Junior Data Scientist</b> | Biotech Engineer | Python & ML enthusiast 🚀
+  <b>Data Scientist</b> | Biotech Engineer | Python & ML enthusiast 🚀
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 I'm a Biotech Engineer now working as a **Data Scientist Jr.**, with a strong foundation in problem-solving, statistical thinking, and applied data analysis.
+🎓 I'm a Biotech Engineer with training in **Data Science**, focused on solving real-world problems through statistical analysis, predictive modeling, and clear communication of results.
 
-📊 I build end-to-end projects using **machine learning**, **natural language processing (NLP)**, and **data visualization**, tackling real-world problems like price prediction, sentiment analysis, and demand forecasting.
+📊 I build end-to-end projects using **machine learning**, **natural language processing (NLP)**, and **data visualization**, tackling challenges like price prediction, sentiment analysis, and demand forecasting.
 
-💡 I focus on delivering clean, well-documented code while reinforcing core concepts in math, modeling, and communication.
+💡 I emphasize clean, well-documented code and strong foundations in math, modeling, and storytelling with data.
 
-🚀 I'm actively seeking opportunities to contribute to data-driven teams, grow my expertise, and create impact through analytics and machine learning.
-
+🚀 I'm currently deepening my skills in **transformers**, **data storytelling**, and **model evaluation**. I'm excited to join collaborative teams where I can learn, contribute, and create impact with data.
 
 ---
 
@@ -66,6 +65,7 @@
 </p>
 
 ---
+
 ## 📊 Skill Breakdown
 
 **Python**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████████ 90%  
@@ -77,6 +77,7 @@
 **Seaborn**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███████░░ 70%  
 **GitHub**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████░░ 60%  
 
+---
 
 ## 📫 Let's Connect
 
@@ -87,4 +88,3 @@
 <p align="center">
   🚀 Thanks for visiting! I'm open to data projects, learning opportunities, and collaborations.
 </p>
-

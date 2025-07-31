@@ -1,4 +1,4 @@
-<img src="https://github.com/jelianmp/jelianmp/blob/main/WPG.png" width="100%" alt="Jorge Mendoza - Data Scientist Banner">
+<img src="https://github.com/jelianmp/jelianmp/blob/main/Portada%20LINK.png" width="100%" alt="Jorge Mendoza - Data Scientist Banner">
 
 <h1 align="center">Hey there! 👋 I'm Jorge</h1>
 
